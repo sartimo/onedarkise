@@ -18,3 +18,16 @@
 ## Red-Teaming / Penetration Testing
 
 - Simulated Attack Environment for Enterprise Companies
+
+
+# Samples for Analysis
+
+- Stuxnet: https://github.com/daedalus/StuxNet
+- Duqu/Flame: 
+- APT34 O!lrig: https://github.com/misterch0c/APT34
+- Lockbit: 
+- Tickbot:
+- Symbiote:
+- Prisma:
+- Pegasus:
+- 
