@@ -2,6 +2,8 @@
 
 ## Security
 
+- Hardware Hypervisor with ESXi vSphere. Multi-Domain Forest Concept
+
 ## Dynamic Analysis
 
 - Dynamic Analysis of O!lRig/APT34 (hard) 
